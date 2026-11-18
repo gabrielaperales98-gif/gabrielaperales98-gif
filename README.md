@@ -7,24 +7,23 @@
 </p>
 <hr>
 
-I’m a communications and electronics engineer learning how AI models are designed, trained, and evaluated.
+# Hi there, I’m Gabriela 👋
 
-I’m especially curious about how computer vision could help doctors analyze medical images and support their diagnostic decisions.
+⚡ **About me:** I’m a communications and electronics engineer.<br>
+🤖 **Learning AI:** I’m exploring how AI models are designed, trained, and evaluated.<br>
+🩻 **What interests me:** I’m curious about how computer vision could help doctors analyze medical images and make better-informed diagnoses.<br>
+📊 **Learning big data:** I’m learning how to work with large datasets.<br>
+🛠️ **What I do:** I work as a Junior Test Engineer at Foxconn, where I run stress tests on servers.
 
-I’m also learning about big data and how to work with large datasets.
+## 💻 Tech Stack
 
-## What I do
-
-I currently work as a Junior Test Engineer at Foxconn, where I run stress tests on servers.
-
-## Featured projects
-
-### MRI Image Classification
-
-I worked on a CNN–LSTM model to distinguish between segmented and unsegmented MRI images. Through this project, I gained experience with image preprocessing and model evaluation.
-
-**Tools used:** Python, OpenCV, TensorFlow/Keras, and scikit-learn.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logo=knime&logoColor=black)
 
 
 <!--
