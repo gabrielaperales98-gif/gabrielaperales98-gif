@@ -1,4 +1,26 @@
-## Hi there 👋
+# Hi there, I’m Gabriela 👋
+
+I’m a communications and electronics engineer learning how AI models are designed, trained, and evaluated.
+
+I’m especially curious about how computer vision could help doctors analyze medical images and support their diagnostic decisions.
+
+I’m also learning about big data and how to work with large datasets.
+
+## What I do
+
+I currently work as a Junior Test Engineer at Foxconn, where I run stress tests on servers.
+
+## Featured projects
+
+### MRI Image Classification
+
+I worked on a CNN–LSTM model to distinguish between segmented and unsegmented MRI images. Through this project, I gained experience with image preprocessing and model evaluation.
+
+**Tools used:** Python, OpenCV, TensorFlow/Keras, and scikit-learn.
+
+### School Lighting Prototype
+
+For my degree project, I worked on a school lighting prototype that used a Raspberry Pi and OpenCV to detect motion. The portfolio demo shows how the lighting would respond when motion is detected.
 
 <!--
 **gabrielaperales98-gif/gabrielaperales98-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
