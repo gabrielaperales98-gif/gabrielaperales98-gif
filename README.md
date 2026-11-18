@@ -38,9 +38,7 @@
 
 I worked on a CNN–LSTM model to distinguish between segmented and unsegmented MRI images. The project gave me hands-on experience with image preprocessing and model evaluation.
 
-### School Lighting Prototype
 
-For my degree project, I worked on a school lighting prototype that used a Raspberry Pi and OpenCV to detect motion. The demo simulates how the light would respond to movement.
 <!--
 **gabrielaperales98-gif/gabrielaperales98-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
