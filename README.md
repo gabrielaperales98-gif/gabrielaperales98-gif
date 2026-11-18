@@ -39,7 +39,7 @@
 I worked on a CNN–LSTM model to distinguish between segmented and unsegmented MRI images. The project gave me hands-on experience with image preprocessing and model evaluation.
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
