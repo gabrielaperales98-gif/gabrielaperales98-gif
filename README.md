@@ -1,13 +1,12 @@
-# Hi there, I’m Gabriela 👋
+
  <p align="center">
+  ### Hi there, I’m Gabriela 👋
 <img src="https://img.shields.io/badge/Age-28-green" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Guadalajara%20Jal-success" />
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-brightgreen" />
 </p>
 <hr>
-
-# Hi there, I’m Gabriela 👋
 
 ⚡ **About me:** I’m a communications and electronics engineer.<br>
 🤖 **Learning AI:** I’m exploring how AI models are designed, trained, and evaluated.<br>
