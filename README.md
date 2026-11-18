@@ -6,7 +6,6 @@
 </p>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-28-green" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Guadalajara%20Jal-success" />
   <img src="https://img.shields.io/badge/Languages-Español%20%26%20English-brightgreen" />
